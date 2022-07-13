@@ -1,0 +1,23 @@
+{
+  "name": "lissa-color-content",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lissalad/color-content-library.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lissalad/color-content-library/issues"
+  },
+  "homepage": "https://github.com/lissalad/color-content-library#readme",
+  "devDependencies": {
+    "jest": "^28.1.3"
+  }
+}
