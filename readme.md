@@ -22,7 +22,10 @@ getImageData() on a selection of a canvas
 
 ```js
   const img = new Image();
+  
+  // scroll to bottom to see the image i used
   img.src = "./images/betta.png";
+  
   const canvas = document.getElementById("canvas");
   const ctx = canvas.getContext("2d");
 
@@ -51,3 +54,7 @@ example:
   getAverageColor(imgData);
   // returns { r: 89, g: 146, b: 89 }
 ```  
+
+### example image:
+
+![betta](https://user-images.githubusercontent.com/89868181/178844513-7d390ecb-f687-4c82-bf0b-c95580f19d4a.png)
